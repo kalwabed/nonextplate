@@ -63,4 +63,4 @@ Contributions are welcome. Please open a pull request if you think something is 
 
 ## License
 
-Distributed under the The Unlicence License. See `LICENSE` for more information.
+Distributed under the The Unlicense License. See `LICENSE` for more information.
